@@ -1,2 +1,2 @@
 # comp3104-DEVOPS
-DEVOPS Repositorty
+#### COMP3104 – Developer Operations
